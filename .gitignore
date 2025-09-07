@@ -1,0 +1,10 @@
+*.csv
+*.ipynb_checkpoints
+.ipynb_checkpoints
+ingestion_db.ipynb
+Exploratory Data Analysis.ipynb
+.env
+/venv/
+.qodo
+__pycache
+/data/

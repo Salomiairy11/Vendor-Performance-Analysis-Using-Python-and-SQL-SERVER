@@ -1,0 +1,8 @@
+2025-09-05 21:25:39,534 - INFO - Ingesting begin_inventory.csv to table begin_inventory
+2025-09-05 21:26:02,816 - INFO - Ingesting end_inventory.csv to table end_inventory
+2025-09-05 21:26:28,242 - INFO - Ingesting purchases.csv to table purchases
+2025-09-05 21:29:45,554 - INFO - Ingesting purchase_prices.csv to table purchase_prices
+2025-09-05 21:29:55,366 - INFO - Ingesting sales.csv to table sales
+2025-09-05 21:32:38,471 - INFO - Ingesting vendor_invoice.csv to table vendor_invoice
+2025-09-05 21:32:47,620 - INFO - Ingestion Complete
+2025-09-05 21:32:47,620 - INFO - Total time taken : 7.212600827217102

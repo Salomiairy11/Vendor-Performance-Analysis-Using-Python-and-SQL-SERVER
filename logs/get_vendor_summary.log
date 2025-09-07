@@ -1,0 +1,21 @@
+
+2025-09-06 18:03:33,997 - Creating Vendor Summary Table....
+2025-09-06 18:07:10,716 -    VendorNumber                   VendorName  Brand  ... TotalSalesDollars  TotalExciseTax  TotalFreightCost
+0          1128  BROWN-FORMAN CORP             1233  ...         412497.26        21082.37          68601.68
+1          3960  DIAGEO NORTH AMERICA INC      4261  ...         382457.34        31541.46         257032.07
+2          4425        MARTIGNETTI COMPANIES   3405  ...         389203.55        23807.19         144929.24
+3         17035  PERNOD RICARD USA             8068  ...         382315.11        29011.06         123780.22
+4          3960  DIAGEO NORTH AMERICA INC      3545  ...         366403.23        21638.79         257032.07
+
+[5 rows x 13 columns]
+2025-09-06 18:07:10,795 - Cleaning Vendor Summary Table....
+2025-09-06 18:07:10,850 -    VendorNumber                VendorName  Brand  ... ProfitMargin  StockTurnOver  SalesPurchaseRatio
+0          1128         BROWN-FORMAN CORP   1233  ...  -284.149558       0.190219            0.260315
+1          3960  DIAGEO NORTH AMERICA INC   4261  ...  -306.189200       0.178677            0.246191
+2          4425     MARTIGNETTI COMPANIES   3405  ...  -271.709906       0.207694            0.269027
+3         17035         PERNOD RICARD USA   8068  ...  -259.656829       0.209445            0.278043
+4          3960  DIAGEO NORTH AMERICA INC   3545  ...  -251.186825       0.200347            0.284749
+
+[5 rows x 17 columns]
+2025-09-06 18:07:10,880 - Ingesting Vendor Summary Table to Database....
+2025-09-06 18:07:13,501 - Vendor Summary Table Ingested Successfully!
