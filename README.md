@@ -11,6 +11,11 @@ This project analyzes vendor performance using **SQL Server** and **Python** on 
 - Logging → Automated process tracking for reproducibility.
 - Power BI → Dashboard for interactive reporting.
 
+![OVERVIEW-PAGE](https://github.com/Salomiairy11/Vendor-Performance-Analysis-Using-Python-and-SQL-SERVER/blob/main/dashboard_pbitFile_and_Screenshots/VendorAnalysisOverview.PNG)
+
+![OVERVIEW-PAGE-2](https://github.com/Salomiairy11/Vendor-Performance-Analysis-Using-Python-and-SQL-SERVER/blob/main/dashboard_pbitFile_and_Screenshots/VendorAnalysisOverview2.PNG)
+
+
 ## Workflow
 
 **1. Data Extraction (SQL + Pandas)**
