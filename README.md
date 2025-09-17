@@ -7,7 +7,7 @@ This project analyzes vendor performance using **SQL Server** and **Python** on 
 ## Tech Stack
 
 - SQL Server → Data extraction and joins across multiple tables using CTEs.
-- Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn) → Data cleaning, KPI generation, EDA, statistical analysis, and visualization.
+- Python (Pandas, NumPy, Matplotlib, Seaborn) → Data cleaning, KPI generation, EDA, statistical analysis, and visualization.
 - Logging → Automated process tracking for reproducibility.
 - Power BI → Dashboard for interactive reporting.
 
@@ -58,7 +58,7 @@ This project analyzes vendor performance using **SQL Server** and **Python** on 
 - Low-sales vendors → Despite higher margins, they need marketing/distribution improvements.
 - Freight → Large cost variations highlight the need for logistics optimization.
 - Bulk Purchasing → Boxplots showed vendors buying in bulk secured lower unit prices, proving discount strategies effective.
-- Inventory Risk → Unsold inventory value quantified capital locked in stock.
+- Inventory Risk → Unsold inventory value quantifies capital locked in stock.
 
 **5. Output & Reporting**
 
